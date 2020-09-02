@@ -21,3 +21,5 @@ These C++ projects are made for Beginners and Intermediate Programmers. All thes
   * [cppreference](https://en.cppreference.com/w/)
   * [Learn Cpp](https://www.learncpp.com/)
 * If you cannot find a solution after searching, check the source code.
+
+*The projects are meant to be Cross-Platform. You should not use platform-specific functions or libraries. Better use frameworks that work on both Windows and Unix.*
